@@ -1,0 +1,51 @@
+2024-01-30 22:01:991 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:377 INFO  LoginPage :31 - Click on signup button Proxy element for: DefaultElementLocator 'By.linkText: Sign Up'
+2024-01-30 22:01:677 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2024-01-30 22:01:678 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2024-01-30 22:01:282 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 455 fonts
+2024-01-30 22:01:718 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:606 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (21afa193e1d06238a8c09d93fda69b24)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 22:01:827 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:103 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (7cacb97a1feea0438c98519a9f9f2a4f)] -> css selector: body.en-gb.brand-id-16.has-scroll-bars:nth-child(2) div.site-wrapper:nth-child(3) div.center-content div.site-header div.site-header__user-details > a.buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 22:01:940 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:449 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (07c936c310de02c6c021da62003afd95)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 22:01:58 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:964 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (3b90ef16fc4f74158a4af5863f60b835)] -> xpath: //a[contains(text(),'Sign Up')]]
+2024-01-30 22:01:848 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:489 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (1c4537e25fc07756e74bb5b5471ff5f6)] -> xpath: //a[@class='buttons__login_bar--create-account bvs-button is-primary']]
+2024-01-30 22:01:54 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:610 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (47da14d2d49be013865c26492161b4bc)] -> xpath: //a[contains(text(),'Log In')]]
+2024-01-30 22:01:528 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:875 INFO  LoginPage :31 - Click on signup button [[ChromeDriver: chrome on windows (d891e2378265091e9a8632128c6b4167)] -> xpath: //a[contains(text(),'Sign Up')]]
+2024-01-30 22:01:850 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:83 INFO  LoginPage :32 - Click on signup button [[ChromeDriver: chrome on windows (2c4d8d0ea21932a4b67d5e0cdc158755)] -> xpath: //a[contains(text(),'Sign Up')]]
+2024-01-30 22:01:219 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:76 INFO  LoginPage :32 - Click on signup button [[ChromeDriver: chrome on windows (11b5aba1c050f89e29b1a0694c4e2c2f)] -> xpath: //a[contains(text(),'Log In')]]
+2024-01-30 22:01:225 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:998 INFO  LoginPage :32 - Click on signup button [[ChromeDriver: chrome on windows (255fb6915e12dd14ec9e689358fba0d6)] -> xpath: //a[contains(text(),'Log In')]]
+2024-01-30 22:01:693 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 22:01:893 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:352 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:222 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:296 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:554 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:768 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:994 INFO  LoginPage :35 - Click on signup button [[ChromeDriver: chrome on windows (e75d7d5a17bbad99aedc4fadb0e7fc73)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:671 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:246 INFO  LoginPage :35 - Click on signup button [[ChromeDriver: chrome on windows (67004fe4378ce7138553051a29af0b7f)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:178 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:551 INFO  LoginPage :35 - Click on signup button [[ChromeDriver: chrome on windows (d0f6ded2dea3f9024bb39201c0530361)] -> css selector: .buttons__login_bar--create-account.bvs-button.is-primary]
+2024-01-30 23:01:650 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:125 INFO  LoginPage :40 - Enter first name [[ChromeDriver: chrome on windows (d0b3fd86553937057161640cf2f42808)] -> id: first_name]
+2024-01-30 23:01:387 INFO  LoginPage :45 - Enter last name [[ChromeDriver: chrome on windows (d0b3fd86553937057161640cf2f42808)] -> id: last_name]
+2024-01-30 23:01:437 INFO  LoginPage :50 - Click on continue button [[ChromeDriver: chrome on windows (d0b3fd86553937057161640cf2f42808)] -> css selector: .regpath__button-next-text]
+2024-01-30 23:01:304 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:683 INFO  LoginPage :40 - Enter first name [[ChromeDriver: chrome on windows (5fd9c2422f017e248c13c1cec5f4415e)] -> id: first_name]
+2024-01-30 23:01:705 INFO  LoginPage :45 - Enter last name [[ChromeDriver: chrome on windows (5fd9c2422f017e248c13c1cec5f4415e)] -> id: last_name]
+2024-01-30 23:01:873 INFO  LoginPage :50 - Click on continue button [[ChromeDriver: chrome on windows (5fd9c2422f017e248c13c1cec5f4415e)] -> css selector: button[type='regpath-button-next']]
+2024-01-30 23:01:631 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-30 23:01:985 INFO  LoginPage :40 - Enter first name [[ChromeDriver: chrome on windows (81d01d84de550e56c435a12fa76207dd)] -> id: first_name]
+2024-01-30 23:01:781 INFO  LoginPage :45 - Enter last name [[ChromeDriver: chrome on windows (81d01d84de550e56c435a12fa76207dd)] -> id: last_name]
+2024-01-31 20:01:721 INFO  ManageBrowser :30 - launching chrome browser
+2024-01-31 20:01:814 INFO  LoginPage :40 - Enter first name [[ChromeDriver: chrome on windows (868490c8d3f064451cca2d5da668f82d)] -> id: first_name]
+2024-01-31 20:01:521 INFO  LoginPage :45 - Enter last name [[ChromeDriver: chrome on windows (868490c8d3f064451cca2d5da668f82d)] -> id: last_name]
